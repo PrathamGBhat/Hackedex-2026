@@ -62,8 +62,14 @@ At its simplest, cryptography is the practice of hiding information (primarily t
 ### Tools
 
 * [cyberchef.org](https://www.cyberchef.org)
-* [dcode.fr](https://www.dcode.fr) - The Swiss Army knives of cryptography. They support a wide variety of hashing, encoding, decoding, encryption, decryption, and other cryptographic operations that you'll commonly encounter in CTF challenges.
-* [crackstation.net](https://crackstation.net/) - Allows you to check pre computed hashes of commonly used passwords
+* [dcode.fr](https://www.dcode.fr)
+
+The Swiss Army knives of cryptography. They support a wide variety of hashing, encoding, decoding, encryption, decryption, and other cryptographic operations that you'll commonly encounter in CTF challenges.
+
+* [pentesterworld.com](https://pentesterworld.com/tools/hash-cracker) 
+* [crackstation.net](https://crackstation.net/)
+
+Both of these tools allow you to check pre computed hashes of commonly used passwords
 
 ## OSINT
 
@@ -114,6 +120,6 @@ Reverse engineering is the process of deconstructing a compiled software binary 
 
 ### Tools
 
-* [uncompyle6]()
-* [dis]()
+* uncompyle6 (`pip install uncompyle6`)
+* dis (In-built with python)
 * [pylingual.io]()
