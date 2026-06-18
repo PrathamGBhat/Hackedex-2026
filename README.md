@@ -19,6 +19,8 @@ To obtain these hidden strings, the users have to apply real world cybersecurity
 
 *4. Communication and Collaboration*
 - *Public Discussion*: Discussion of flags in general in public will lead to direct disqualification!
+- *Top 3 Teams*: The organizing committe reserves the right to check the WhatsApp messages of top 3 teams to prevent flag sharing and cross-teaming.
+- *In case of Disqualification*: The organizing committee's decision will be final and based on suitable evidence. No excuses will be entertained from any team. 
  
 *5. Flag Submission*
 - *Flag Format*: Flags must be submitted in the format: hackemon{...}. Case sensitivity matters.
