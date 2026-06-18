@@ -19,7 +19,7 @@ To obtain these hidden strings, the users have to apply real world cybersecurity
 
 *4. Communication and Collaboration*
 - *Public Discussion*: Discussion of flags in general in public will lead to direct disqualification!
-
+ 
 *5. Flag Submission*
 - *Flag Format*: Flags must be submitted in the format: hackemon{...}. Case sensitivity matters.
 - *One Flag, One Submission*: Each flag can be submitted only once. If incorrect, solve the challenge again for the correct flag.
