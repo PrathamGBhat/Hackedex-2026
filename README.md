@@ -108,7 +108,7 @@ Ever opened **Inspect Element** and modified a webpage by adding or removing HTM
 Inside the browser's developer tools (inspect element):
 
 * Console - Used to execute JavaScript directly on the website.
-* Sources - Contains the website's files, such as `index.html`, `styles.css`, and `script.js`.
+* Sources - Contains the website's files, such as `index.html`, `styles.css` and `script.js`.
 * Network - Tracks the requests sent by the browser and the responses returned by the server.
 * Application - Often contains stored data such as cookies, local storage, and authentication-related information.
 
