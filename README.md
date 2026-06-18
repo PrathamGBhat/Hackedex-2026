@@ -1,3 +1,36 @@
+# What is a CTF
+
+A Capture The Flag (CTF) is a gamified cybersecurity competition where participants have to uncover hidden strings of text called "flags" for points.
+To obtain these hidden strings, the users have to apply real world cybersecurity techniques at a scaled down level.
+
+# Rules and Regulations for Hackemon 2.0
+
+*1. Reporting to the CTF*
+- *Check your Alloted Venues*: Each team has been alloted one of three venues. Check them in the official WhatsApp group beforehand
+- *Mark your Attendance*: Inform the volunteers at the entrance about your presence.
+
+*2. General Conduct*
+- *Respect All Participants*: Harassment or malicious behavior is prohibited. Treat everyone with respect.
+- *Fair Play*: Play honestly. Exploiting platform vulnerabilities for an advantage leads to disqualification.
+
+*3. Challenge Solving*
+- *Own Work Only*: Solve challenges yourself. Plagiarism (using others' solutions or pre-made scripts) will result in disqualification.
+- *Tools*: Any tools may be used, but automating challenge solutions (e.g., flag scrapers or brute-forcing) is not allowed.
+
+*4. Communication and Collaboration*
+- *Public Discussion*: Discussion of flags in general in public will lead to direct disqualification!
+
+*5. Flag Submission*
+- *Flag Format*: Flags must be submitted in the format: hackemon{...}. Case sensitivity matters.
+- *One Flag, One Submission*: Each flag can be submitted only once. If incorrect, solve the challenge again for the correct flag.
+
+*6. Exploiting System Vulnerabilities*
+- *No Attacks on Platform*: Any attack or disruption of the CTF platform (e.g., DoS or SQL injection) will result in disqualification.
+- *Use of Other Platforms*: Attacking external websites or systems that affect the event or your team's score will lead to disqualification.
+
+*7. Offline CTF*
+- *No Trespassing*: All the questions involve testing a set proximity to the location in riddle. Coding Club will not take responsibility in case of players entering buildings.
+
 # Setup
 
 If you are using Windows, please install [**Windows Subsystem for Linux (WSL)**](https://www.youtube.com/watch?v=9gT6vO_W6x0) before the CTF. Many of the tools used throughout the challenges are command-line utilities designed for Linux environments and are most easily used through a Linux terminal.
@@ -51,10 +84,12 @@ OSINT stands for **Open Source Intelligence**. In simple terms, it's the process
 
 ### What is Network Security?
 
+Network security is the practice of protecting a computer network's infrastructure, traffic, and data from unauthorized access, misuse, modification, or cyberattacks.
+
 ### Tools
 
-* [Wireshark](https://www.wireshark.org/download.html) -
-* tshark (Ubuntu WSL - `sudo apt-get install wireshark tshark`) - 
+* [Wireshark](https://www.wireshark.org/download.html) - Tool that allows you to intercept, log, and inspect individual data packets for troubleshooting and analysis
+* tshark (Ubuntu WSL - `sudo apt-get install wireshark tshark`) - Same functionality as wireshark but 
 
 ## Web Exploitation
 
@@ -75,4 +110,10 @@ Inside the browser's developer tools (inspect element):
 
 ### What is Reverse Engineering?
 
+Reverse engineering is the process of deconstructing a compiled software binary or hardware system to analyze its structure, functions, and logic to understand how it works without access to the original source code.
+
 ### Tools
+
+* [uncompyle6]()
+* [dis]()
+* [pylingual.io]()
