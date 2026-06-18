@@ -95,7 +95,7 @@ Network security is the practice of protecting a computer network's infrastructu
 ### Tools
 
 * [Wireshark](https://www.wireshark.org/download.html) - Tool that allows you to intercept, log, and inspect individual data packets for troubleshooting and analysis
-* tshark (Ubuntu WSL - `sudo apt-get install wireshark tshark`) - Same functionality as wireshark but 
+* tshark (Ubuntu WSL - `sudo apt-get install wireshark tshark`) - Same functionality as wireshark but on the command line interface (CLI)
 
 ## Web Exploitation
 
