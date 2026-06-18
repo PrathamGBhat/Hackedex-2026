@@ -1,4 +1,4 @@
-# What is a CTF
+# What is a CTF?
 
 A Capture The Flag (CTF) is a gamified cybersecurity competition where participants have to uncover hidden strings of text called "flags" for points.
 To obtain these hidden strings, the users have to apply real world cybersecurity techniques at a scaled down level.
