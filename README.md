@@ -122,4 +122,4 @@ Reverse engineering is the process of deconstructing a compiled software binary 
 
 * uncompyle6 (`pip install uncompyle6`)
 * dis (In-built with python)
-* [pylingual.io]()
+* decompyle3 (`pip install decompyle3`)
